@@ -1,0 +1,25 @@
+.responsive-img {
+    width: 100%;
+    max-width: 600px;
+    transition: transform 0.3s, opacity 0.3s;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #aa8c51; 
+    color: #333;
+
+h1 {
+    color: #000000; 
+    margin-bottom: 20px;
+}
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
